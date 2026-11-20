@@ -1,0 +1,36 @@
+
+<customers>
+  <customer>
+    <name>John Smith</name>
+    <email>john@gmail.com</email>
+    <phone>9876543210</phone>
+    <company>Tech Solutions</company>
+    <city>Delhi</city>
+    <country>India</country>
+    <date>2025-01-15</date>
+    <amount>15000</amount>
+    <feedback>Excellent service</feedback>
+  </customer>
+  <customer>
+    <name>Priya Sharma</name>
+    <email>priya@gmail.com</email>
+    <phone>9876543211</phone>
+    <company>Digital Works</company>
+    <city>Mumbai</city>
+    <country>India</country>
+    <date>2025-02-10</date>
+    <amount>22000</amount>
+    <feedback>Very happy with the product</feedback>
+  </customer>
+  <customer>
+    <name>John Smith</name>
+    <email>john@gmail.com</email>
+    <phone>9876543210</phone>
+    <company>Tech Solutions</company>
+    <city>Delhi</city>
+    <country>India</country>
+    <date>2025-04-15</date>
+    <amount>12000</amount>
+    <feedback>Great customer support</feedback>
+  </customer>
+</customers>
