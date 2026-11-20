@@ -4,7 +4,7 @@ A web app that merges customer data from multiple sources into one clean profile
 
 Built with Next.js, TypeScript, and deployable on Vercel with zero configuration.
 
-**Live demo:** _add your Vercel URL here_
+**Live demo:** https://vercel.com/divyanshus-projects-ec96d49f/automated-customer-data-integeration-system
 
 
 ## Features
