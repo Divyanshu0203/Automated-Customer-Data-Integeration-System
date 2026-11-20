@@ -1,0 +1,51 @@
+
+[
+  {
+    "customer_id": 101,
+    "fullName": "John Smith",
+    "emailAddress": "john@gmail.com",
+    "mobile": "9876543210",
+    "organization": "Tech Solutions",
+    "location": "Delhi",
+    "country": "India",
+    "createdAt": "2025-01-15",
+    "totalAmount": "15000",
+    "comments": "Excellent service"
+  },
+  {
+    "customer_id": 102,
+    "fullName": "Priya Sharma",
+    "emailAddress": "priya@gmail.com",
+    "mobile": "9876543211",
+    "organization": "Digital Works",
+    "location": "Mumbai",
+    "country": "India",
+    "createdAt": "2025-02-10",
+    "totalAmount": "22000",
+    "comments": "Very happy with the product"
+  },
+  {
+    "customer_id": 103,
+    "fullName": "Rahul Kumar",
+    "emailAddress": "rahul@gmail.com",
+    "mobile": "9876543212",
+    "organization": "ABC Technologies",
+    "location": "Bangalore",
+    "country": "India",
+    "createdAt": "2025-03-12",
+    "totalAmount": "18000",
+    "comments": "Good experience"
+  },
+  {
+    "customer_id": 104,
+    "fullName": "John Smith",
+    "emailAddress": "john@gmail.com",
+    "mobile": "9876543210",
+    "organization": "Tech Solutions",
+    "location": "Delhi",
+    "country": "India",
+    "createdAt": "2025-04-15",
+    "totalAmount": "12000",
+    "comments": "Great customer support"
+  }
+]
